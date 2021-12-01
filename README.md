@@ -4,3 +4,7 @@
 # BILD-IT
 
 ## Lekcije
+
+* [Lekcija 0: Getting Started](https://github.com/dotundefined/bild-it-lekcije-js/tree/master/lekcija_0 - Getting Started)
+* [Lekcija 1: Fundamentals](https://github.com/dotundefined/bild-it-lekcije-js/tree/master/lekcija_1)
+* [Lekcija 2: Strings&Operators](https://github.com/dotundefined/bild-it-lekcije-js/tree/master/lekcija_2 - Strings&Operators)
