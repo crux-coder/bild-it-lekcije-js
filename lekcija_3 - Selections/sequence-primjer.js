@@ -1,5 +1,5 @@
 let car = 'Edison';
 
-let action = `${car} goes BRRR.`;
+let action = `${car} VOZI.`;
 
 console.log(action);
