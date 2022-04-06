@@ -2,6 +2,12 @@
 
 # BILD-IT
 
+Ova repozitorija sadrzi prezentacije i primjere sa predavanja. Kako budemo prolazili kroz nove lekcije i zadatke tako cemo ih dodavati ovdje. Jos uvijek nemamo rjesenja za zadatke ali je planirano i to. Pratite ovu repozitoriju. :)
+
+## Zadaci
+
+- [Zadaci](https://github.com/dotundefined/bild-it-lekcije-js/tree/master/zadaci)
+
 ## Lekcije
 
 - [Lekcija 0: Getting Started](https://github.com/dotundefined/bild-it-lekcije-js/tree/master/lekcija_0%20-%20Getting%20Started)
