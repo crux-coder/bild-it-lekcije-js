@@ -33,7 +33,7 @@
 
 7. Twin prime brojevi su par prostih brojeva koji se razlikuju za 2. Na primjer, brojevi 3 i 5 su twin primes, brojevi 5 i 7 i 11 i 13 su takodjer twin primes. Napisati funkciju koja ispisuje sve twin prime brojeve manje od 10.000, 10 parova po liniji. 
 
-**VAZNO** Zadatak nije ispisati prvih 10.000 twin prime brojeva nego sve twin prime brojeve u rasponu od 0 do 10.000)
+    **VAZNO** Zadatak nije ispisati prvih 10.000 twin prime brojeva nego sve twin prime brojeve u rasponu od 0 do 10.000)
 
 8. Palindrome prime je prosti broj koji je takodjer i palindrom. Na primjer, 131 je palindrome prime, kao i brojevi 313 i 757. Napisati funkciju koja ispisuje prvih 100 palindrome prime brojeva, 10 brojeva po liniji.
 
