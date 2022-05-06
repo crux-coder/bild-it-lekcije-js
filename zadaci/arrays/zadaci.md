@@ -1,16 +1,16 @@
 # Zadaci
 
-1. Napisati program koji ce kreirati niz od 20 elemenata, popunjen nasumicnim brojevima u rasponu od 1 do 100. Nakon kreiranja niza ispisati isti u konzolu.
+1. Napisati program koji ce kreirati niz od 20 elemenata, popunjen nasumicnim brojevima u rasponu od 1 do 100. Nakon kreiranja niza ispisati isti u konzolu. [Rjesenje](https://github.com/dotundefined/bild-it-lekcije-js/blob/dev/zadaci/arrays/rjesenja/zadatak1.js)
 
-2. Napisati program koji ce kreirati niz od 20 elemenata, popunjen nasumicnim brojevima u rasponu od 1 do 100. Nakon kreiranja niza, sabrati sve elemente koji se nalaze na parnom indexu, i ispisati sumu u konzolu.
+2. Napisati program koji ce kreirati niz od 20 elemenata, popunjen nasumicnim brojevima u rasponu od 1 do 100. Nakon kreiranja niza, sabrati sve elemente koji se nalaze na parnom indexu, i ispisati sumu u konzolu. [Rjesenje](https://github.com/dotundefined/bild-it-lekcije-js/blob/dev/zadaci/arrays/rjesenja/zadatak2.js)
 
-3. Napisati program koji ce kreirati niz od 20 elemenata, popunjen nasumicnim brojevima u rasponu od 1 do 100. Ispisati ovaj pocetni niz u konzolu. Zatim izmjesati elemente u nizu, te ponovo ispisati niz u konzolu. Za mijesanje niza, minimalan broj iteracija je jednak duzini niza.
+3. Napisati program koji ce kreirati niz od 20 elemenata, popunjen nasumicnim brojevima u rasponu od 1 do 100. Ispisati ovaj pocetni niz u konzolu. Zatim izmjesati elemente u nizu, te ponovo ispisati niz u konzolu. Za mijesanje niza, minimalan broj iteracija je jednak duzini niza. [Rjesenje](https://github.com/dotundefined/bild-it-lekcije-js/blob/dev/zadaci/arrays/rjesenja/zadatak3.js)
 
-4. Napisati program koji simulira dijeljenje 6 karata korisniku iz spila. Spil ukupno ima 52 karte, ‘A’, ‘1’, ’2’, ’3’, ’4’, ’5’, ’6’, ’7’, ’8’, ’9’, ’10’, ’J’, ’Q’, ’K’ u cetiri znaka ‘List’,’Srce’, ‘Kocka’ i ‘Mak’. Ispisati sve podjeljene karte.
+4. Napisati program koji simulira dijeljenje 6 karata korisniku iz spila. Spil ukupno ima 52 karte, ‘A’, ’2’, ’3’, ’4’, ’5’, ’6’, ’7’, ’8’, ’9’, ’10’, ’J’, ’Q’, ’K’ u cetiri znaka ‘List’,’Srce’, ‘Kocka’ i ‘Mak’. Ispisati sve podjeljene karte. [Rjesenje](https://github.com/dotundefined/bild-it-lekcije-js/blob/dev/zadaci/arrays/rjesenja/zadatak4.js)
 
-5. Napisati program koji ce kreirati niz od 20 elemenata, popunjen nasumicnim brojevima od 1 do 100. Zatim, program kreira novi niz, koji ima sve elemente kao i prvi niz ali obrnut redoslijed. Ako je prvi niz [12, 24, 7], drugi niz ce biti [7, 24, 12].
+5. Napisati program koji ce kreirati niz od 20 elemenata, popunjen nasumicnim brojevima od 1 do 100. Zatim, program kreira novi niz, koji ima sve elemente kao i prvi niz ali obrnut redoslijed. Ako je prvi niz [12, 24, 7], drugi niz ce biti [7, 24, 12]. [Rjesenje](https://github.com/dotundefined/bild-it-lekcije-js/blob/dev/zadaci/arrays/rjesenja/zadatak5.js)
 
-6. Napisati program koji racuna faktorijel nekog broja n. N broj uzeti proizvoljno, izracunati faktorijel zatim ispisati rezultat. Faktorijel broje se racuna na sljedeci nacin: faktorijel = n * (n-1)* (n-2)... * 1.
+6. Napisati program koji racuna faktorijel nekog broja n. N broj uzeti proizvoljno, izracunati faktorijel zatim ispisati rezultat. Faktorijel broja se racuna na sljedeci nacin: faktorijel = n \* (n-1) \* (n-2) \* ... \* 1. [Rjesenje](https://github.com/dotundefined/bild-it-lekcije-js/blob/dev/zadaci/arrays/rjesenja/zadatak6.js)
 
 7. Napisati program koji ce generisati Fibonacci niz i smjestiti ga u jedan niz od 20 elemenata. (Fibbonacijev niz je niz brojeva koji pocinje brojevima 0 i 1, a svaki sljedeci broj u nizu dobija se zbrajanjem prethodna dva: F(0) = 0, F(1) = 1, F(n) = F(n-1) + F(n-2)). Zatim napraviti funkciju koja ce u nizu pronaci sve brojeve koji zavrsavanju parnom cifrom i ukloniti ih iz niza. Uklanjanje elemenata niza obavezno uraditi tako da ne ostaju prazni elementi vec da se ostatak niza pomjeri kako ne bi bilo praznih elemenata. Pomjeranje ostatka niza obavezno raditi prilikom uklanjanja elemenata.
 
