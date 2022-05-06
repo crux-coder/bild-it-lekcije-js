@@ -1,6 +1,4 @@
-![BILD IT](./banner.png?raw=true =250x)
-
-# BILD-IT
+# <img src="./banner.png" width=15% >
 
 Ova repozitorija sadrzi prezentacije i primjere sa predavanja. Kako budemo prolazili kroz nove lekcije i zadatke tako cemo ih dodavati ovdje. Jos uvijek nemamo rjesenja za zadatke ali je planirano i to. Pratite ovu repozitoriju. :)
 
