@@ -1,74 +1,74 @@
 # Zadaci
 
-1. Napisati program koji izracunava povrsinu kruga. Poluprecnik kruga spremiti u varijablu, zatim izracunati povrsinu kruga ispisati korisniku rezultat. Formula za izracunavanje povrsine kruga:
-    
-    r * r * PI (π)  
+1.  Napisati program koji izracunava povrsinu kruga. Poluprecnik kruga spremiti u varijablu, zatim izracunati povrsinu kruga ispisati korisniku rezultat. Formula za izracunavanje povrsine kruga:
 
-    Primjer ispisa programa: 'Povrsina kruga poluprecnika 20.7 je 1346.14.
+    r \* r \* PI (π)
 
-2. Napisati program koji pretvara konvertibilne marke (KM) u Euro. Kolicinu u konvertibilnim markama spremiti u varijablu, a zatim izracunati vrijednost u eurima i ispisati poruku.
+    Primjer ispisa programa: 'Povrsina kruga poluprecnika 20.7 je 1346.14. [Rjesenje](https://github.com/dotundefined/bild-it-lekcije-js/blob/dev/zadaci/flow_control/zadatak1.js)
 
-    Primjer ispisa programa: '70 KM je 35.76 eura.'
+2.  Napisati program koji pretvara konvertibilne marke (KM) u Euro. Kolicinu u konvertibilnim markama spremiti u varijablu, a zatim izracunati vrijednost u eurima i ispisati poruku.
 
-    Uzmimo da je 1 Euro = 1.95KM
+    Primjer ispisa programa: '70 KM je 35.89 eura.'
 
-3. Napisati program koji racuna prosjek 3 broja. Koristiti 3 proizvoljna broj, izracunati prosjek tih brojeva te ispisati korisniku isti.
+    Uzmimo da je 1 Euro = 1.95KM [Rjesenje](https://github.com/dotundefined/bild-it-lekcije-js/blob/dev/zadaci/flow_control/zadatak2.js)
 
-    Primjer ispisa programa: 'Prosjek brojeva 2, 4, 6 i je 4.'
+3.  Napisati program koji racuna prosjek 3 broja. Koristiti 3 proizvoljna broj, izracunati prosjek tih brojeva te ispisati korisniku isti.
 
-4. Napisati program koji racuna BMI (Body Mass Index). BMI se racuna po formuli: BMI  = tezina /(visina * visina), gdje je tezina u kilogramima a visina u metrima. Tezinu i visinu spremiti u varijable. Na osnovu izracunate vrijednosti ispisati odgovarajucu poruku iz ove tabele:
+    Primjer ispisa programa: 'Prosjek brojeva 2, 4 i 6 je 4.' [Rjesenje](https://github.com/dotundefined/bild-it-lekcije-js/blob/dev/zadaci/flow_control/zadatak3.js)
 
-    | BMI vrijednost      | Kategorija          |
-    | ------------------- | ------------------- |
-    | BMI < 18.5          | Pothranjenost       |
-    | 18.5 ≤ BMI < 25.0   | Normalan BMI        |
-    | 25.0 ≤ BMI < 30.0   | Gojaznost           |
-    | BMI >= 30.0         | Pretilost           |
+4.  Napisati program koji racuna BMI (Body Mass Index). BMI se racuna po formuli: BMI = tezina /(visina \* visina), gdje je tezina u kilogramima a visina u metrima. Tezinu i visinu spremiti u varijable. Na osnovu izracunate vrijednosti ispisati odgovarajucu poruku iz ove tabele:
 
-    Primjer ispisa programa: 'Za visinu od 1.75m i tezinu od 70kg vas BMI je 22.9. To spada u kategoriju: Normalan BMI'
+    | BMI vrijednost    | Kategorija    |
+    | ----------------- | ------------- |
+    | BMI < 18.5        | Pothranjenost |
+    | 18.5 ≤ BMI < 25.0 | Normalan BMI  |
+    | 25.0 ≤ BMI < 30.0 | Gojaznost     |
+    | BMI >= 30.0       | Pretilost     |
 
-5. Napisati program koji na osnovu broja bodova koje je student osvojio ispisuje ocjenu koju je student zasluzio. Broj bodova predstaviti varijablom.
+    Primjer ispisa programa: 'Za visinu od 1.75m i tezinu od 70kg vas BMI je 22.9. To spada u kategoriju: Normalan BMI' [Rjesenje](https://github.com/dotundefined/bild-it-lekcije-js/blob/dev/zadaci/flow_control/zadatak4.js)
+
+5.  Napisati program koji na osnovu broja bodova koje je student osvojio ispisuje ocjenu koju je student zasluzio. Broj bodova predstaviti varijablom.
 
     0-49 ocjena je 5  
     50 - 59 ocjena je 6  
     60 - 69 ocjena je 7  
     70 - 79 ocjena je 8  
     80 - 89 ocjena je 9  
-    90 - 100 ocjena je 10.  
+    90 - 100 ocjena je 10.
 
     Ukoliko je broj bodova veci od 100 ili manji od 0 ispisati poruku "Pogresan unos", u suprotnom ispisati poruku kao u primjeru ispod.
 
-    Primjer ispisa programa: 'Za osvojenih 74 boda dobili ste ocjenu 8.'
+    Primjer ispisa programa: 'Za osvojenih 74 boda dobili ste ocjenu 8.' [Rjesenje](https://github.com/dotundefined/bild-it-lekcije-js/blob/dev/zadaci/flow_control/zadatak5.js)
 
-6. Napisati program koji na osnovu radiusa (r) i visine (H) cilindra racuna njegovu povrsinu i zapreminu koristeci se sljedecim formulama:
+6.  Napisati program koji na osnovu radiusa (r) i visine (H) cilindra racuna njegovu povrsinu i zapreminu koristeci se sljedecim formulama:
 
-    P = 2 * r * r * π + H * 2 * r * π  
-    V = r * r * π * H
+    P = 2 _ r _ r _ π + H _ 2 _ r _ π  
+    V = r _ r _ π \* H
 
     Radius i visinu cilindra predstaviti varijablama. Za radius i visinu koristiti proizvoljne vrijednosti. Nakon sto program izracuna povrsinu i zapreminu treba da ispise iste korisniku.
 
     Primjer ispisa programa: ‘Za cilindar radiusa 5.5 i visine 12 povrsina iznosi 604.757 a zapremina 1140.398.’
 
-7. Napisati program koji na osnovu duzine ivice kocke (a) racuna povrsinu i zapreminu kocke. Zapremina kocke se racuna po formuli:
+7.  Napisati program koji na osnovu duzine ivice kocke (a) racuna povrsinu i zapreminu kocke. Zapremina kocke se racuna po formuli:
 
-    V = a * a * a.
+    V = a _ a _ a.
 
     Povrsina se racuna po formuli:
 
-    P = 6 * a * a.
+    P = 6 _ a _ a.
 
-    Duzinu ivice kocke predstaviti varijablom, i uzeti proizvoljnu vrijednost. Nakon sto program izracuna zapreminu i povrsinu kocke ispisati iste korisniku kao u primjeru ispod. 
+    Duzinu ivice kocke predstaviti varijablom, i uzeti proizvoljnu vrijednost. Nakon sto program izracuna zapreminu i povrsinu kocke ispisati iste korisniku kao u primjeru ispod.
 
     Primjer ispisa programa: ‘Za kocku kod koje je duzina ivice 7.5 zapremina iznosi 421,88 a povrsina je 337.5.’
 
-8. Napisati program koji racuna iznos popusta na gotovinsko placanje robe i cijenu te robe sa popustom. Pocetnu cijenu robe i popust u procentima predstaviti varijablama. Nakon sto program izracuna iznos popusta i cijenu robe sa popustom program treba da ispise iste kao u primjeru ispod.
+8.  Napisati program koji racuna iznos popusta na gotovinsko placanje robe i cijenu te robe sa popustom. Pocetnu cijenu robe i popust u procentima predstaviti varijablama. Nakon sto program izracuna iznos popusta i cijenu robe sa popustom program treba da ispise iste kao u primjeru ispod.
 
     Primjer ispisa programa: ‘Za robu sa cijenom od 175.5KM i popustom od 12%, iznos popusta je 21.06 KM a cijena robe sa popustom iznosi 154.44 KM.’
 
-9. Napisati program koji na osnovu broja minuta (npr. 1 milijardu) ispisuje koliko je to u godinama i danima. Zbog jednostavnosti,
-pretpostavimo da godina ima 365 dana. Broj minuta predstaviti varijablom. Nakon sto program izracuna koliko je to vremena u godinama i danima program treba da ispise poruku kao u primjeru ispod:
+9.  Napisati program koji na osnovu broja minuta (npr. 1 milijardu) ispisuje koliko je to u godinama i danima. Zbog jednostavnosti,
+    pretpostavimo da godina ima 365 dana. Broj minuta predstaviti varijablom. Nakon sto program izracuna koliko je to vremena u godinama i danima program treba da ispise poruku kao u primjeru ispod:
 
-    Primjer ispisa programa: ‘1000000000 minuta je otprilike 1902 godine i 214 dana.’
+        Primjer ispisa programa: ‘1000000000 minuta je otprilike 1902 godine i 214 dana.’
 
 10. Napisati program koji ispituje da li je trocifreni cijeli broj palindrom. Broj je palindrom ako je isti citajuci s lijeva na desno i s desna na lijevo. Trocifreni cijeli broj predstaviti varijablom. Nakon sto program provjeri da li je taj broj palindrom, ispisuje jednu od sljedecih poruka:
 
