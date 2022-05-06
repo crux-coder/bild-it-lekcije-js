@@ -1,4 +1,4 @@
-![Alt text](./banner.png?raw=true 'BILD-IT')
+![BILD IT](./banner.png?raw=true =250x)
 
 # BILD-IT
 
