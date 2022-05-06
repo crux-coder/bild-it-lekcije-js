@@ -14,6 +14,9 @@ Jasan i precizan opis u čemu je greška.
 **Ocekivano ponasanje**
 Jasan i prezizan opis kako bi trebalo biti ispravno, u slucaju da znate rjesenje.
 
+**Linkovi**
+Link do konkretnog fajla o kojem je rijec.
+
 **Screenshots**
 Ukoliko mozete okaciti i screenshot to bi bilo od pomoci.
 
